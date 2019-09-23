@@ -12,7 +12,7 @@ public class Main {
 
 	}
 	private static void displayGreetings(){
-		System.out.println("welcome to javass peoples");
+		System.out.println("welcome to javass peopledfs");
 	}
 
 }
